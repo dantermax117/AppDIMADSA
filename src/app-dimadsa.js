@@ -16,7 +16,8 @@ class AppDimadsa extends LitElement {
 
   render() {
     return html`
-      
+      <h1>Hola alan</h1>
+      <h2>adios alan</h2>
     `;
   }
 }
